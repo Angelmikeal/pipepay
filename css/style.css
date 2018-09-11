@@ -243,6 +243,11 @@ body {
     max-height: 100px;
 }
 
+.contact-info h5 {
+    margin: 0px;
+    font-size: 17px;
+}
+
 .contact-info p {
     margin: 0px;
 }
