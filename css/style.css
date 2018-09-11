@@ -242,4 +242,8 @@ body {
 .contact-info {
     max-height: 100px;
 }
+
+.contact-info p {
+    margin: 0px;
+}
 }
