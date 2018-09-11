@@ -74,6 +74,11 @@ body {
     color: #71CA99;
 }
 
+.signIn {
+    background-color: #fff;
+    color: #6FB28D;
+}
+
 .rate-cotainer {
     padding: 50px 0px;
 }
@@ -205,8 +210,8 @@ body {
 
 
     .rate-info {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border-radius: 100%;
     text-align: center;
     color: #71CA99;
@@ -223,6 +228,10 @@ body {
 .rate-info p {
     margin: 0px;
     font-size: 17px;
+}
+
+.shrink {
+    height: 100px;
 }
 
 .contacts {
